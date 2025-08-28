@@ -12,7 +12,7 @@ type Input struct {
 	Name string
 }
 
-func main() {
+func PerformanceMeasure() {
 	input := []*Input{
 		{Name: "matheus"},
 		{Name: "josue"},
